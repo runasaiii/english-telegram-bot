@@ -16,7 +16,7 @@
 ## Установка
 1. Клонируй репозиторий:
 ```
-git clone https://github.com/твоя-ссылка/english-bot.git
+git clone https://github.com/runasaiii/english-bot.git
 cd english-bot
 
 Активируй виртуальное окружение:
