@@ -1,0 +1,12 @@
+[
+  {
+    "task": "Вставь пропущенное слово:\nI ___ to school every day.",
+    "options": ["go", "goes", "going"],
+    "answer": "go"
+  },
+  {
+    "task": "Переведи предложение:\nShe is my friend.",
+    "options": ["Она моя сестра", "Она моя подруга", "Она моя мама"],
+    "answer": "Она моя подруга"
+  }
+]
