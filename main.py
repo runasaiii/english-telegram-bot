@@ -21,7 +21,7 @@ register_task_handlers(dp)
 register_quiz_handlers(dp)
 
 async def on_startup(dispatcher):
-    chat_id = 1267658043
+    chat_id = #your chat id
     start_scheduler(bot, chat_id)
 
 if __name__ == '__main__':
